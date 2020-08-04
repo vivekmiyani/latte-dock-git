@@ -2,7 +2,7 @@ pkgbase = latte-dock-git
 	pkgdesc = Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids
 	pkgver = r4245.0c577d68
 	pkgrel = 1
-	url = https://invent.kde.org/plasma/latte-dock
+	url = https://github.com/vivekmiyani/latte-dock
 	arch = x86_64
 	license = GPL
 	makedepends = git
@@ -14,7 +14,7 @@ pkgbase = latte-dock-git
 	optdepends = libunity: quicklists, counters, and progress bars for apps using libunity
 	provides = latte-dock
 	conflicts = latte-dock
-	source = git+https://invent.kde.org/plasma/latte-dock.git
+	source = git+https://github.com/vivekmiyani/latte-dock.git
 	sha256sums = SKIP
 
 pkgname = latte-dock-git
